@@ -1,5 +1,6 @@
 package com.symdesign.TimeLog;
 
+
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
@@ -8,7 +9,7 @@ import java.util.Date;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
-public class TimeLog extends Panel {
+public class TimeLog extends  Panel {
 
 	/** Add a time stamped notes
 	 * 		java -jar ~/bin/timelog.jar <note file name i.e ~/Mydocs/notes/pynotes
