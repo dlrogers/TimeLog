@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 
 public class TimeLog extends  Panel {
 
-	/** Add a time stamped notes
+	/** Add a time notes stamped with current date
 	 * 		java -jar ~/bin/timelog.jar <note file name i.e ~/Mydocs/notes/pynotes
 	 * @param args
 	 */
